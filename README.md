@@ -55,7 +55,7 @@ Responsive portfolio website.
 
 ---
 
-## 🌼 GitHub Insights (Fixed)
+## 🌼 GitHub Insights
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Reee00&show_icons=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reee00&layout=compact&theme=transparent" />
