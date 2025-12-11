@@ -11,7 +11,7 @@ Fullstack Developer yang fokus pada aplikasi web modern, cepat, dan scalable. Be
 
 ---
 
-## 🎨 Tech Stack (Icon Version)
+## 🎨 Tech Stack
 <div align="center">
 
 <!-- Frontend -->
@@ -54,14 +54,6 @@ REST API dengan autentikasi JWT.
 ### **3. Personal Portfolio Website**
 Responsive portfolio website.  
 **Demo:** https://portofolio-ahmadrenaldy.vercel.app/
-
----
-
-## 🌼 GitHub Insights
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Reee00&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reee00&layout=compact&theme=transparent" />
-</div>
 
 ---
 
