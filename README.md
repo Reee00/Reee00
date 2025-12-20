@@ -6,7 +6,7 @@
 
 ---
 
-## 🌿 About Me
+##  About Me
 Fullstack Developer yang fokus pada aplikasi web modern, cepat, dan scalable. Berpengalaman membangun sistem internal organisasi, API, dan dashboard menggunakan teknologi web terkini.
 
 ---
