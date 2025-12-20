@@ -11,7 +11,7 @@ Fullstack Developer yang fokus pada aplikasi web modern, cepat, dan scalable. Be
 
 ---
 
-## 🎨 Tech Stack
+##  Tech Stack
 <div align="center">
 
 <!-- Frontend -->
@@ -33,7 +33,7 @@ Fullstack Developer yang fokus pada aplikasi web modern, cepat, dan scalable. Be
 
 ---
 
-## 🌸 Featured Projects
+##  Featured Projects
 
 ### **1. CMS Yayasan Kanker Anak Indonesia**
 Fullstack CMS untuk mengelola berita, galeri, dan video.  
@@ -57,7 +57,7 @@ Responsive portfolio website.
 
 ---
 
-## 🌱 Connect With Me
+##  Connect With Me
 - **Email:** ahmadd.renaldyy@gmail.com  
 - **Portfolio:** https://portofolio-ahmadrenaldy.vercel.app  
 - **GitHub:** https://github.com/Reee00  
